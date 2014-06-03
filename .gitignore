@@ -172,3 +172,8 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+
+# Migrations folder
+Migrations
+Migrations/
+Migrations/*
